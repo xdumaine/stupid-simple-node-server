@@ -1,0 +1,28 @@
+{
+  "name": "stupid-simple-node-server",
+  "version": "0.1.0",
+  "description": "A stupid simple node server for serving static apps over https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xdumaine/stupid-simple-node-server"
+  },
+  "keywords": [
+    "simple",
+    "node",
+    "server"
+  ],
+  "author": "Xander Dumaine (xdumaine)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdumaine/stupid-simple-node-server/issues"
+  },
+  "homepage": "https://github.com/xdumaine/stupid-simple-node-server",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "pem": "^1.8.1"
+  }
+}
